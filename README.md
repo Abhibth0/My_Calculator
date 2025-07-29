@@ -67,8 +67,6 @@ A modern, elegant Android calculator app with a clean dark theme and intuitive u
   </tr>
 </table>
 
-> **Note**: Add your app screenshots to the `screenshots/` folder and update the filenames above
-
 ## 🚀 Getting Started
 
 ### Prerequisites
