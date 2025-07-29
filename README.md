@@ -1,7 +1,7 @@
 # My Calculator - Math Made Minimalist
 
 <div align="center">
-  <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" width="120" height="120" alt="My Calculator Logo"/>
+  <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" width="120" height="120" alt="My Calculator Logo"/>
   <h3>Math Made Minimalist</h3>
 </div>
 
@@ -46,12 +46,26 @@ A modern, elegant Android calculator app with a clean dark theme and intuitive u
 
 ## 📱 Screenshots
 
-<div align="center">
-  <img src="screenshots/calculator_main.jpg" width="200" alt="Calculator Main Screen" style="margin: 10px;"/>
-  <img src="screenshots/currency_converter.jpg" width="200" alt="Currency Converter" style="margin: 10px;"/>
-  <img src="screenshots/history_page.jpg" width="200" alt="History Page" style="margin: 10px;"/>
-  <img src="screenshots/navigation_drawer.jpg" width="200" alt="Navigation Drawer" style="margin: 10px;"/>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="screenshots/calculator_main.jpg" width="180" alt="Calculator Main Screen"/>
+      <br/><b>Calculator</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/currency_converter.jpg" width="180" alt="Currency Converter"/>
+      <br/><b>Currency Converter</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/history_page.jpg" width="180" alt="History Page"/>
+      <br/><b>History</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/navigation_drawer.jpg" width="180" alt="Navigation Drawer"/>
+      <br/><b>Navigation Menu</b>
+    </td>
+  </tr>
+</table>
 
 > **Note**: Add your app screenshots to the `screenshots/` folder and update the filenames above
 
