@@ -1,5 +1,10 @@
 # My Calculator - Math Made Minimalist
 
+<div align="center">
+  <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="120" height="120" alt="My Calculator Logo"/>
+  <h3>Math Made Minimalist</h3>
+</div>
+
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white)](https://material.io/)
@@ -41,7 +46,17 @@ A modern, elegant Android calculator app with a clean dark theme and intuitive u
 
 ## 📱 Screenshots
 
-> Add your app screenshots here to showcase the UI
+<div align="center">
+  <img src="screenshots/calculator_main.jpg" width="250" alt="Calculator Main Screen"/>
+  <img src="screenshots/currency_converter.jpg" width="250" alt="Currency Converter"/>
+  <img src="screenshots/history_page.jpg" width="250" alt="History Page"/>
+</div>
+
+<div align="center">
+  <img src="screenshots/navigation_drawer.jpg" width="250" alt="Navigation Drawer"/>
+</div>
+
+> **Note**: Add your app screenshots to the `screenshots/` folder and update the filenames above
 
 ## 🚀 Getting Started
 
