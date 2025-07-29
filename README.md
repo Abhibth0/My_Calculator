@@ -1,7 +1,7 @@
 # My Calculator - Math Made Minimalist
 
 <div align="center">
-  <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="120" height="120" alt="My Calculator Logo"/>
+  <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" width="120" height="120" alt="My Calculator Logo"/>
   <h3>Math Made Minimalist</h3>
 </div>
 
@@ -47,13 +47,10 @@ A modern, elegant Android calculator app with a clean dark theme and intuitive u
 ## 📱 Screenshots
 
 <div align="center">
-  <img src="screenshots/calculator_main.jpg" width="250" alt="Calculator Main Screen"/>
-  <img src="screenshots/currency_converter.jpg" width="250" alt="Currency Converter"/>
-  <img src="screenshots/history_page.jpg" width="250" alt="History Page"/>
-</div>
-
-<div align="center">
-  <img src="screenshots/navigation_drawer.jpg" width="250" alt="Navigation Drawer"/>
+  <img src="screenshots/calculator_main.jpg" width="200" alt="Calculator Main Screen" style="margin: 10px;"/>
+  <img src="screenshots/currency_converter.jpg" width="200" alt="Currency Converter" style="margin: 10px;"/>
+  <img src="screenshots/history_page.jpg" width="200" alt="History Page" style="margin: 10px;"/>
+  <img src="screenshots/navigation_drawer.jpg" width="200" alt="Navigation Drawer" style="margin: 10px;"/>
 </div>
 
 > **Note**: Add your app screenshots to the `screenshots/` folder and update the filenames above
