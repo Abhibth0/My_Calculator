@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Number button colors - Modern Charcoal -->
+    <color name="number_button_normal">#2C2C34</color>
+    <color name="number_button_pressed">#3A3A44</color>
+
+    <!-- Operator button colors - Electric Coral -->
+    <color name="operator_button_normal">#FF5E78</color>
+    <color name="operator_button_pressed">#E54B66</color>
+
+    <!-- Function button colors - Sky Blue -->
+    <color name="function_button_normal">#38B6FF</color>
+    <color name="function_button_pressed">#2A9DE8</color>
+
+    <!-- Text colors -->
+    <color name="button_text_white">#FFFFFF</color>
+    <color name="button_text_black">#000000</color>
+    <color name="display_text">#FF5E78</color>
+    <color name="previous_text">#8A8A95</color>
+    <color name="background_black">#1A1A1F</color>
+</resources>

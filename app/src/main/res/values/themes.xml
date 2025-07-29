@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyCalculator" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/operator_button_normal</item>
+        <item name="colorPrimaryVariant">@color/operator_button_pressed</item>
+        <item name="colorSecondary">@color/function_button_normal</item>
+        <item name="colorSecondaryVariant">@color/function_button_pressed</item>
+        <item name="android:colorBackground">@color/background_black</item>
+        <item name="colorOnPrimary">@color/button_text_white</item>
+        <item name="colorOnSecondary">@color/button_text_white</item>
+        <item name="colorOnBackground">@color/display_text</item>
+    </style>
+
+    <style name="Theme.MyCalculator" parent="Base.Theme.MyCalculator" />
+</resources>
