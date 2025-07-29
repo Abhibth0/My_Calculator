@@ -1,7 +1,7 @@
 # My Calculator - Math Made Minimalist
 
 <div align="center">
-  <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="120" height="120" alt="My Calculator Logo"/>
+  <img src="app/src/main/res/mipmap-xxxhdpi/logo.png" width="120" height="120" alt="My Calculator Logo"/>
   <h3>Math Made Minimalist</h3>
 </div>
 
